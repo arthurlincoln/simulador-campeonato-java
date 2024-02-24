@@ -2,4 +2,4 @@
 
 Programa que faz a simulação de uma tabela de um campeonato de futebol
 
-Projeto realizado sobre uma atividade da universidade
+Projeto realizado para a disciplina de Linguagem de programação II
